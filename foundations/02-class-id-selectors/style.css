@@ -7,3 +7,16 @@
 .second-class {
     font-size:24px;
 }
+
+#number-2 {
+    color: rgb(0,0,255);
+    font-size:36px;
+    font-family:Verdana, sans-serif;
+}
+
+#number-4 {
+    background-color: rgb(102,255,178);
+    font-size:24px;
+    font-family:Verdana, sans-serif;
+    font-weight: bold;
+}
